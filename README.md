@@ -25,7 +25,7 @@ Welcome to my Subscription website project! This site is a showcase of my skills
 
 ## How to Use
 
-Simply navigate to [] to explore my work and learn more about me.
+Simply navigate to [https://vishvesprabakar.github.io/error-makes-clever-flex-subscription/] to explore my work and learn more about me.
 
 ## Contributing
 
