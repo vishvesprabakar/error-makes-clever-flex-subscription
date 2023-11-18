@@ -33,7 +33,7 @@ If you have suggestions, enhancements, or if you spot a bug, feel free to open a
 
 ## Acknowledgments
 
-I'd like to express my gratitude to [error makes clever, tutorials] that helped me in creating this Udemy clone.
+I'd like to express my gratitude to [error makes clever, tutorials] that helped me in creating this Subscription clone.
 
 Enjoy exploring my subscription website, and thank you for visiting!
 
